@@ -1,1 +1,2 @@
 # RNAndFlutter
+该demo是RN和flutter混编的demo，下载之后执行yarn,再到node—modules目录下的my_flutter执行flutter pub get，然后在执行pod install
